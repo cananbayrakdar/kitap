@@ -1,0 +1,38 @@
+1001
+Veri Yapıları
+Ali Demir
+350 2020
+Yok
+Nobel Yayınları
+Türkçe
+
+1002
+Algoritmalar
+Ayşe Yılmaz
+410 2019
+Kapak yırtık
+Bilgi Üniversitesi Yayınları
+Türkçe
+
+1003
+Programlamaya Giriş
+Mehmet Çelik
+280 2021
+Çizilmiş sayfalar mevcut
+KodLab Yayıncılık
+Türkçe
+
+1004
+Database Sistemleri
+Zeynep Karaca
+390 2019
+Yabancı Akademik Yayınlar
+İngilizce
+
+1005
+Computer Organization
+Ahmet Kurt
+500 2017
+Sarı sayfalar
+TechPress
+İngilizce
